@@ -1,0 +1,27 @@
+@media (max-width: 940px) {
+    h1 {
+        font-size: 8.52vw;
+        line-height: 7.96vw;
+    }
+    p {
+        font-size: 2.553vw;
+        line-height: 3.8vw;
+    }
+    .icon-resizer {
+        width: 80%;
+    }
+}
+
+@media (max-width: 540px) {
+    h1 {
+        font-size: 46px;
+        line-height: 46px;
+    }
+    p {
+        font-size: 13.79px;
+        line-height: 20.5px;
+    }
+    .icon-resizer {
+        width: 60%;
+    }
+}
